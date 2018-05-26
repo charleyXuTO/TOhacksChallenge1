@@ -1,2 +1,2 @@
 # TOhacksChallenge1
-TOHACKS TEAM: Japenvinit, Jisu, Charley, Vincent
+TOHACKS TEAM: Japvinit, Jisu, Charley, Vincent
